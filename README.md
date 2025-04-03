@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for Rust and open-source contrib
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Rust, Python, JavaScript, TypeScript
+- **Languages:** Rust, Go, Python, JavaScript, TypeScript
 - **Frameworks:** Actix, Rocket, React, Node.js
 - **Tools:** Git, Docker, Kubernetes, CI/CD (GitHub Actions, Travis CI)
 - **Databases:** PostgreSQL, MySQL, MongoDB
@@ -21,7 +21,7 @@ I'm a passionate software developer with a love for Rust and open-source contrib
 
 ## 📫 How to reach me
 
-- **Email:** [rustco@example.com](mailto:rustco@example.com)
+- **Email:** [rustco@gmail.com](mailto:rustco@gmail.com)
 - **LinkedIn:** [linkedin.com/in/rustco](https://www.linkedin.com/in/rustco)
 
 ## 💬 Let's Connect
