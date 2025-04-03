@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello, I'm Rustco! 👋
 
-<!--
-**rustco/rustco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a love for Rust and open-source contributions. I enjoy creating efficient and reliable software, and I'm always looking for new challenges to tackle. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Rust, Python, JavaScript, TypeScript
+- **Frameworks:** Actix, Rocket, React, Node.js
+- **Tools:** Git, Docker, Kubernetes, CI/CD (GitHub Actions, Travis CI)
+- **Databases:** PostgreSQL, MySQL, MongoDB
+
+## 🌱 Currently Learning
+
+- Advanced Rust programming techniques
+- Cloud computing with AWS and Azure
+- Machine learning and data science
+
+## 📈 GitHub Stats
+
+![Rustco's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustco&show_icons=true&count_private=true&hide=prs,issues)
+
+## 📫 How to reach me
+
+- **Email:** [rustco@example.com](mailto:rustco@example.com)
+- **LinkedIn:** [linkedin.com/in/rustco](https://www.linkedin.com/in/rustco)
+
+## 💬 Let's Connect
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to meeting new people and learning new things.
+
+---
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=rustco.rustco)
